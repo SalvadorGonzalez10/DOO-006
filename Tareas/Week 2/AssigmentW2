@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+
+	<head>
+		<title>Assigment Week2</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		
+		<header>
+			<hgroup>
+				<h1>Diseño Orientado a Objetos</h1>
+				<h2>Licenciatura en Seguridad de T.I.</h2>
+			</hgroup>
+		</header>
+		
+		<nav>
+			<ul>
+				<li><a href="#">Inicio</a></li>
+				<li><a href="#">Menu 1</a></li>
+				<li><a href="#">Menu 2</a></li>
+				<li><a href="#">Menu 3</a></li>
+			</ul>
+		</nav>
+			
+		<article>
+			<header>
+				<h1> Asignación de la Semana 1 </h1>
+			</header>
+			
+			<p>
+				Construir la página actual haciendo uso de HTML5 y CSS3.
+			</p>
+			
+		<section>
+			<header>
+				<h1>Este es el encabezado de la primer sección</h1>
+			</header>
+			<p class="left-to-aside">
+			Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección. Este es el contenido de la primer sección.
+			</p>
+		</section>
+		
+		<section>
+		
+		<header>
+			<h1>Segunda sección: "mark", "aside", botón e imagen</h1>
+		</header>
+		
+		<p class="next-to-aside">
+			Aqui vamos a hacer el uso de <mark>mark IV like Iron Man</mark>... aveda te la creíste wexdxdxd. Aqui vamos a hacer el uso de <mark>mark IV like Iron Man</mark>... aveda te la creíste wexdxdxd. Aqui vamos a hacer el uso de <mark>mark IV like Iron Man</mark>... aveda te la creíste wexdxdxd. Aqui vamos a hacer el uso de <mark>mark IV like Iron Man</mark>... aveda te la creíste wexdxdxd. Aqui vamos a hacer el uso de <mark>mark IV like Iron Man</mark>... aveda te la creíste wexdxdxd. Aqui vamos a hacer el uso de <mark>mark IV like Iron Man</mark>... aveda te la creíste wexdxdxd.
+			<br /> <!-- salto de lnea -->
+		</p>
+		
+		<aside>
+			<p>Este es el aside más prrón de toda la history channel. Este es el aside más prrón de toda la history channel. Este es el aside más prrón de toda la history channel. Este es el aside más prrón de toda la history channel.</p>
+		</aside>
+		
+		<div>
+			<button type="button" onClick="javascript:alert('Aquí no hay paquetaxos')">Botón 1</button>
+		</div>
+		
+		<figure>
+		
+			<img src="C:\Users\ISABEL\Desktop" width="200" height="100">
+			<figcaption>Figura 1. Logo FCFM</figcaption>
+		
+		</figure>
+		
+		</section>
+		
+		</article>	
+	
+	</body>
+</html>
